@@ -25,7 +25,7 @@
 				</div>
 				<div class="elementor-element elementor-element-f358479 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="f358479" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p><span style="font-weight: 400;">Welcome to BSL Gaming, a trusted software &amp; iGaming Development Company.  Today, we stand at the forefront of the industry, delivering best-in-class software solutions,  SportsBook and casino solutions</span><span style="font-weight: 400;"> that elevate user experiences to new heights. </span></p><p><span style="font-weight: 400;">With a keen understanding of market dynamics and player preferences, we build </span>applications<span style="font-weight: 400;"> tailored to business requirements and focus on driving more revenue. Let us discuss the in-depth requirements of your project!</span></p>								</div>
+									<p><span style="font-weight: 400;">Welcome to BSL Gaming, a premier iGaming and software engineering powerhouse.  Today, we stand at the forefront of the industry, delivering best-in-class software solutions,  SportsBook and casino solutions</span><span style="font-weight: 400;"> that elevate user experiences to new heights. </span></p><p><span style="font-weight: 400;">With a keen understanding of market dynamics and player preferences, we build </span>applications<span style="font-weight: 400;"> tailored to business requirements and focus on driving more revenue. Let us discuss the in-depth requirements of your project!</span></p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-79c3004 about-button elementor-widget elementor-widget-button" data-id="79c3004" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
@@ -128,7 +128,7 @@
 		<div class="elementor-element elementor-element-3a06e91 e-con-full e-flex e-con e-child" data-id="3a06e91" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-35b313c elementor-widget elementor-widget-image" data-id="35b313c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" src="/img/aws-images/Crafting+Winning+Experiences.jpeg" title="" alt="" loading="lazy" />															</div>
+															<img decoding="async" src="/img/aws-images/Crafting-Winning-Experiences.jpg" title="" alt="" loading="lazy" />															</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-35e10e0 e-con-full e-flex e-con e-child" data-id="35e10e0" data-element_type="container" data-e-type="container">
@@ -162,7 +162,7 @@
 				</div>
 				<div class="elementor-element elementor-element-e08b8c7 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="e08b8c7" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Driven by a passion for software development, our mission is to redefine the boundaries of possibility and set new standards for excellence in the IT world<span style="font-weight: 400;">. We strive to empower our clients with quality-driven solutions that drive success &amp; business revenue and captivate audiences worldwide.</span></p>								</div>
+									<p>Driven by an unyielding passion for software architecture, our mission is to continuously redefine technological boundaries.ty and set new standards for excellence in the IT world<span style="font-weight: 400;">. We strive to empower our clients with quality-driven solutions that drive success &amp; business revenue and captivate audiences worldwide.</span></p>								</div>
 				</div>
 					</div>
 				</div>
@@ -171,7 +171,7 @@
 		<div class="elementor-element elementor-element-e8e56a8 e-con-full e-flex e-con e-child" data-id="e8e56a8" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-55df6d1 elementor-widget elementor-widget-image" data-id="55df6d1" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" src="/img/aws-images/Customised+Sports+Betting.svg" title="" alt="" loading="lazy" />															</div>
+															<img decoding="async" src="/img/aws-images/Customised-Sports-Betting.svg" title="" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-cd999ce elementor-widget elementor-widget-heading" data-id="cd999ce" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -186,7 +186,7 @@
 		<div class="elementor-element elementor-element-fcba538 e-con-full e-flex e-con e-child" data-id="fcba538" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-2332d6a elementor-widget elementor-widget-image" data-id="2332d6a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" src="/img/aws-images/Experienced+team.svg" title="" alt="" loading="lazy" />															</div>
+															<img decoding="async" src="/img/aws-images/Experienced-team.svg" title="" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-025c4fb elementor-widget elementor-widget-heading" data-id="025c4fb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -233,7 +233,7 @@
 		<div class="elementor-element elementor-element-6379d4b e-con-full e-flex e-con e-child" data-id="6379d4b" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-35834e3 elementor-widget elementor-widget-image" data-id="35834e3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" src="/img/aws-images/Reliable+End.svg" title="" alt="" loading="lazy" />															</div>
+															<img decoding="async" src="/img/aws-images/Reliable-End.svg" title="" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-7ceb445 elementor-widget elementor-widget-heading" data-id="7ceb445" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -249,7 +249,7 @@
 		<div class="elementor-element elementor-element-658a9a7 e-con-full e-flex e-con e-child" data-id="658a9a7" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-6e5aaaf elementor-widget elementor-widget-image" data-id="6e5aaaf" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" src="/img/aws-images/Innovative+solutions.svg" title="" alt="" loading="lazy" />															</div>
+															<img decoding="async" src="/img/aws-images/Innovative-solutions.svg" title="" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-298ea04 elementor-widget elementor-widget-heading" data-id="298ea04" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -298,81 +298,19 @@
 				<div class="elementor-widget-container">
 					<h2 class="elementor-heading-title elementor-size-default"><span>TECHNOLOGIES</span> WE RELY ON</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-dbff6db jltma-navigation-type-none technology-rely-on jltma-carousel-style-carousel elementor-widget elementor-widget-jltma-logo-slider" data-id="dbff6db" data-element_type="widget" data-e-type="widget" data-settings="{&quot;autoheight&quot;:&quot;yes&quot;,&quot;item_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;item_gap_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;item_gap_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;item_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;item_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]}}" data-widget_type="jltma-logo-slider.default">
-				<div class="elementor-widget-container">
-					
-		<div id="jltma-logo-carousel-dbff6db" data-settings="{&quot;autoplay&quot;:{&quot;delay&quot;:4000},&quot;loop&quot;:true,&quot;speed&quot;:500,&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:35,&quot;effect&quot;:&quot;carousel&quot;,&quot;breakpoints&quot;:{&quot;600&quot;:{&quot;slidesPerView&quot;:2,&quot;spaceBetween&quot;:35,&quot;slidesPerGroup&quot;:1},&quot;767&quot;:{&quot;slidesPerView&quot;:2,&quot;spaceBetween&quot;:35,&quot;slidesPerGroup&quot;:1},&quot;1023&quot;:{&quot;slidesPerView&quot;:5,&quot;spaceBetween&quot;:35,&quot;slidesPerGroup&quot;:1}},&quot;navigation&quot;:{&quot;nextEl&quot;:&quot;#jltma-logo-carousel-dbff6db .jltma-arrow--next&quot;,&quot;prevEl&quot;:&quot;#jltma-logo-carousel-dbff6db .jltma-arrow--prev&quot;},&quot;pagination&quot;:{&quot;el&quot;:&quot;#jltma-logo-carousel-dbff6db .swiper-pagination&quot;,&quot;type&quot;:&quot;&quot;,&quot;clickable&quot;:&quot;true&quot;,&quot;dynamicBullets&quot;:false},&quot;scrollbar&quot;:{&quot;el&quot;:&quot;#jltma-logo-carousel-dbff6db .swiper-scrollbar&quot;,&quot;hide&quot;:&quot;true&quot;},&quot;coverflowEffect&quot;:{&quot;rotate&quot;:50,&quot;stretch&quot;:0,&quot;depth&quot;:100,&quot;modifier&quot;:1,&quot;slideShadows&quot;:true}}" class="jltma-logo-carousel-slider">
-			<div class="jltma-logo-carousel-wrapper jltma-carousel jltma-swiper jltma-swiper__container swiper elementor-jltma-element-dbff6db-3824" data-jltma-template-widget-id="dbff6db-3824">
-				<div class="jltma-logo-carousel jltma-swiper__wrapper swiper-wrapper">
-									<div class="jltma-logo-slider-item jltma-slider__item jltma-swiper__slide swiper-slide">
-					<figure class="jltma-logo-slider-figure" >
-
-						<img src="/img/aws-images/logo-rails-1.png">					</figure>
-
-
-				</div>
-
-						<div class="jltma-logo-slider-item jltma-slider__item jltma-swiper__slide swiper-slide">
-					<figure class="jltma-logo-slider-figure" >
-
-						<img src="/img/aws-images/logo-aws.png">					</figure>
-
-
-				</div>
-
-						<div class="jltma-logo-slider-item jltma-slider__item jltma-swiper__slide swiper-slide">
-					<figure class="jltma-logo-slider-figure" >
-
-						<img src="/img/aws-images/logo-django-1.png">					</figure>
-
-
-				</div>
-
-						<div class="jltma-logo-slider-item jltma-slider__item jltma-swiper__slide swiper-slide">
-					<figure class="jltma-logo-slider-figure" >
-
-						<img src="/img/aws-images/logo-langchain.png">					</figure>
-
-
-				</div>
-
-						<div class="jltma-logo-slider-item jltma-slider__item jltma-swiper__slide swiper-slide">
-					<figure class="jltma-logo-slider-figure" >
-
-						<img src="/img/aws-images/logo-mongodb.png">					</figure>
-
-
-				</div>
-
-						<div class="jltma-logo-slider-item jltma-slider__item jltma-swiper__slide swiper-slide">
-					<figure class="jltma-logo-slider-figure" >
-
-						<img src="/img/aws-images/logom-react.png">					</figure>
-
-
-				</div>
-
-						<div class="jltma-logo-slider-item jltma-slider__item jltma-swiper__slide swiper-slide">
-					<figure class="jltma-logo-slider-figure" >
-
-						<img src="/img/aws-images/logo-andmore-1.png">					</figure>
-
-
-				</div>
-
-		
-
-					</div> <!-- swiper-wrapper -->
-				</div>
-				<!--/.ma-logo-carousel-->
-
-				        <div class="jltma-arrows jltma-swiper__navigation jltma-swiper__pagination jltma-swiper__pagination--none jltma-position-z-index jltma-swiper__pagination-dbff6db " id="jltma-arrows-dbff6db">
-                    </div>
-
-    
 				
-			</div>
-			<!--/.jltma-logo-slider-->
+    <!-- Custom Technologies Grid -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 40px; padding: 40px 0;">
+        <i class="fab fa-aws" style="font-size: 80px; color: #D4AF37;"></i>
+        <i class="fab fa-python" style="font-size: 80px; color: #D4AF37;"></i>
+        <i class="fab fa-react" style="font-size: 80px; color: #D4AF37;"></i>
+        <i class="fab fa-node-js" style="font-size: 80px; color: #D4AF37;"></i>
+        <i class="fab fa-php" style="font-size: 80px; color: #D4AF37;"></i>
+        <i class="fas fa-database" style="font-size: 80px; color: #D4AF37;"></i>
+        <i class="fas fa-code" style="font-size: 80px; color: #D4AF37;"></i>
+    </div>
+    <!-- End Custom Technologies Grid -->
+    
 
 					</div>
 				</div>

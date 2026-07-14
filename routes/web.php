@@ -20,18 +20,22 @@ Route::prefix('admin')->name('admin.')->group(function () {
         Route::post('appearance', [\App\Http\Controllers\Admin\AppearanceController::class, 'store'])->name('appearance.store');
         Route::resource('messages', MessageController::class)->only(['index', 'show', 'destroy']);
         Route::resource('blogs', BlogController::class)->except(['show']);
+        Route::resource('testimonials', \App\Http\Controllers\Admin\TestimonialController::class)->except(['show']);
     });
 });
 
 Route::get('/', function () {
-    return view('home');
+    $testimonials = \App\Models\Testimonial::where('is_active', true)->orderBy('sort_order')->orderBy('id', 'desc')->get();
+    $latestBlogs = \App\Models\Blog::orderBy('published_at', 'desc')->take(3)->get();
+    $settings = \App\Models\Setting::pluck('value', 'key')->toArray();
+    return view('home', compact('testimonials', 'latestBlogs', 'settings'));
 });
 
 Route::post('/contact/submit', [\App\Http\Controllers\ContactController::class, 'submit'])->name('contact.submit');
 
-Route::get('/{slug}', function ($slug) {
-    if (view()->exists($slug)) {
-        return view($slug);
+Route::get('/blog/{slug}', function ($slug) {
+    if (view()->exists("blog.{$slug}")) {
+        return view("blog.{$slug}");
     }
     
     $post = \App\Models\Blog::where('slug', $slug)->first();
@@ -41,3 +45,12 @@ Route::get('/{slug}', function ($slug) {
     
     abort(404);
 })->where('slug', '.*');
+
+Route::get('/{slug}', function ($slug) {
+    if (view()->exists($slug)) {
+        return view($slug);
+    }
+    
+    abort(404);
+})->where('slug', '.*');
+

@@ -21,6 +21,14 @@ class SettingController extends Controller
             'email2' => 'nullable|string',
             'phone' => 'nullable|string',
             'address' => 'nullable|string',
+            'trust_number_1' => 'nullable|string',
+            'trust_label_1' => 'nullable|string',
+            'trust_number_2' => 'nullable|string',
+            'trust_label_2' => 'nullable|string',
+            'trust_number_3' => 'nullable|string',
+            'trust_label_3' => 'nullable|string',
+            'trust_number_4' => 'nullable|string',
+            'trust_label_4' => 'nullable|string',
         ]);
 
         foreach ($data as $key => $value) {
