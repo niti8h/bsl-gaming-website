@@ -12,6 +12,7 @@
     <div style="margin-bottom: 30px; border-bottom: 1px solid var(--dark-border); padding-bottom: 20px;">
         <p style="margin-bottom: 8px;"><strong>From:</strong> {{ $message->name }} &lt;{{ $message->email }}&gt;</p>
         <p style="margin-bottom: 8px;"><strong>Phone:</strong> {{ $message->phone_number ?? 'N/A' }}</p>
+        <p style="margin-bottom: 8px;"><strong>Telegram ID:</strong> {{ $message->telegram_id ?? 'N/A' }}</p>
         <p style="margin-bottom: 8px;"><strong>Date:</strong> {{ $message->created_at->format('M d, Y h:i A') }}</p>
     </div>
 

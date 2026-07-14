@@ -13,7 +13,8 @@ Route::prefix('admin')->name('admin.')->group(function () {
     Route::post('logout', [AuthController::class, 'logout'])->name('logout');
 
     Route::middleware('auth')->group(function () {
-        Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
+        Route::get('/', function () { return redirect()->route('admin.dashboard'); });
+        Route::get('dashboard', [DashboardController::class, 'index'])->name('dashboard');
         Route::get('settings', [SettingController::class, 'index'])->name('settings.index');
         Route::post('settings', [SettingController::class, 'store'])->name('settings.store');
         Route::get('appearance', [\App\Http\Controllers\Admin\AppearanceController::class, 'index'])->name('appearance.index');

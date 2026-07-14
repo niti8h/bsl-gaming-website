@@ -13,6 +13,7 @@ class ContactController extends Controller
             'name' => 'nullable|string|max:255',
             'email' => 'nullable|email|max:255',
             'phone_number' => 'nullable|string|max:20',
+            'telegram_id' => 'nullable|string|max:255',
             'subject' => 'nullable|string|max:255',
             'message' => 'nullable|string',
         ]);

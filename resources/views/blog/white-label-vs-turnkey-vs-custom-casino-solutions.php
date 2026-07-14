@@ -2694,24 +2694,30 @@ Get in touch and let's build something epic together!</h3>				</div>
 --wpforms-button-size-margin-top: 10px;
 --wpforms-container-shadow-size-box-shadow: none;
 			}
-			</style><div class="wpforms-container wpforms-container-full submit-btn wpforms-render-modern" id="wpforms-10740"><form id="wpforms-form-10740" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="10740" method="post" enctype="multipart/form-data" action="https://www.wagergeeks.com/blog/white-label-vs-turnkey-vs-custom-casino-solutions/" data-token="9ecb9a6584efecd10e6e8c5390a5a3af" data-token-time="1783942224"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div id="wpforms-error-noscript" style="display: none;">Please enable JavaScript in your browser to complete this form.</div><div class="wpforms-field-container"><div id="wpforms-10740-field_8-container" class="wpforms-field wpforms-field-textarea content-section" data-field-id="8"><textarea id="wpforms-10740-field_8" class="wpforms-field-small" name="wpforms[fields][8]" aria-errormessage="wpforms-10740-field_8-error" aria-describedby="wpforms-10740-field_8-description" ></textarea><div id="wpforms-10740-field_8-description" class="wpforms-field-description"><h3 style="color:#fff;font-size:18px;font-family:Poppins;font-weight:600;">Let's talk business!</h3>
-
-<p style="color:#fff;line-height:20px;font-family:Poppins;font-weight:500;">Let’s create what the world plays. Share your requirements and our <br />experts will reach you shortly!</p></div></div><div id="wpforms-10740-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><fieldset><legend class="wpforms-field-label">Full Name <span class="wpforms-required-label" aria-hidden="true">*</span></legend><div class="wpforms-field-row wpforms-field-large"><div class="wpforms-field-row-block wpforms-first wpforms-one-half"><input type="text" id="wpforms-10740-field_0" class="wpforms-field-name-first wpforms-field-required" name="wpforms[fields][0][first]" placeholder="First Name" aria-errormessage="wpforms-10740-field_0-error" required><label for="wpforms-10740-field_0" class="wpforms-field-sublabel after wpforms-sublabel-hide">First</label></div><div class="wpforms-field-row-block wpforms-one-half"><input type="text" id="wpforms-10740-field_0-last" class="wpforms-field-name-last wpforms-field-required" name="wpforms[fields][0][last]" placeholder="Last Name" aria-errormessage="wpforms-10740-field_0-last-error" required><label for="wpforms-10740-field_0-last" class="wpforms-field-sublabel after wpforms-sublabel-hide">Last</label></div></div></fieldset></div><div id="wpforms-10740-field_7-container" class="wpforms-field wpforms-field-email" data-field-id="7"><label class="wpforms-field-label" for="wpforms-10740-field_7">Email <span class="wpforms-required-label" aria-hidden="true">*</span></label><input type="email" id="wpforms-10740-field_7" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][7]" placeholder="Email" spellcheck="false" aria-errormessage="wpforms-10740-field_7-error" required></div><div id="wpforms-10740-field_4-container" class="wpforms-field wpforms-field-text phone-field" data-field-id="4"><label class="wpforms-field-label" for="wpforms-10740-field_4">Phone Number <span class="wpforms-required-label" aria-hidden="true">*</span></label><input type="text" id="wpforms-10740-field_4" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][4]" placeholder="Phone Number" aria-errormessage="wpforms-10740-field_4-error" required></div>		<div id="wpforms-10740-field_1-container"
-			class="wpforms-field wpforms-field-text"
-			data-field-type="text"
-			data-field-id="1"
-			>
-			<label class="wpforms-field-label" for="wpforms-10740-field_1" >Phone Name Message</label>
-			<input type="text" id="wpforms-10740-field_1" class="wpforms-field-medium" name="wpforms[fields][1]" >
-		</div>
-		<div id="wpforms-10740-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-10740-field_2">Message <span class="wpforms-required-label" aria-hidden="true">*</span></label><textarea id="wpforms-10740-field_2" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][2]" placeholder="Message" aria-errormessage="wpforms-10740-field_2-error" required></textarea></div><script>
-				( function() {
-					const style = document.createElement( 'style' );
-					style.appendChild( document.createTextNode( '#wpforms-10740-field_1-container { position: absolute !important; overflow: hidden !important; display: inline !important; height: 1px !important; width: 1px !important; z-index: -1000 !important; padding: 0 !important; } #wpforms-10740-field_1-container input { visibility: hidden; } #wpforms-conversational-form-page #wpforms-10740-field_1-container label { counter-increment: none; }' ) );
-					document.head.appendChild( style );
-					document.currentScript?.remove();
-				} )();
-			</script></div><!-- .wpforms-field-container --><div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="10740"><input type="hidden" name="page_title" value="White Label vs.Turnkey vs. Custom Solutions: Choosing the Right Online Casino Software"><input type="hidden" name="page_url" value="https://www.wagergeeks.com/blog/white-label-vs-turnkey-vs-custom-casino-solutions/"><input type="hidden" name="url_referer" value="http://www.wagergeeks.com/blogs/page/9/"><input type="hidden" name="page_id" value="8977"><input type="hidden" name="wpforms[post_id]" value="8977"><div class="g-recaptcha" data-sitekey="6LdGs_krAAAAAP0AByhxkCjR45D-axX_s7Ffq7uz"></div><button type="submit" name="wpforms[submit]" id="wpforms-submit-10740" class="wpforms-submit button" data-alt-text="Sending..." data-submit-text="Send" aria-live="assertive" value="wpforms-submit">Send</button><img src="../../wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt="Loading"></div></form></div>  <!-- .wpforms-container -->				</div>
+			</style><style>
+.contact-form-custom { background: rgba(0,0,0,0.5); padding: 30px; border-radius: 10px; }
+.contact-form-custom input, .contact-form-custom textarea { width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #555; background: #222; color: #fff; margin-bottom: 15px; }
+.contact-form-custom button { background: #D4AF37; color: #000; padding: 12px 30px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; font-size: 16px; transition: background 0.3s; }
+.contact-form-custom button:hover { background: #b8972e; }
+.contact-form-custom label { color:#fff; display:block; margin-bottom: 5px; }
+</style>
+<div class="contact-form-custom">
+	<form method="POST" action="<?php echo route('contact.submit'); ?>">
+		<?php echo csrf_field(); ?>
+		<h3 style="color:#fff; margin-bottom: 10px; font-size: 18px;">Let's talk business!</h3>
+		<p style="color:#fff; margin-bottom: 20px; font-size: 14px;">Let’s create what the world plays. Share your requirements and our experts will reach you shortly!</p>
+		<label>Full Name *</label>
+		<input type="text" name="name" required placeholder="Your Name">
+		<label>Email *</label>
+		<input type="email" name="email" required placeholder="Your Email">
+		<label>Phone Number *</label>
+		<input type="text" name="phone_number" required placeholder="Your Phone Number">
+		<input type="text" name="telegram_id" placeholder="Telegram ID (Optional)">
+		<label>Message *</label>
+		<textarea name="message" required placeholder="Message" style="min-height: 120px;"></textarea>
+		<button type="submit">Send Message</button>
+	</form>
+</div>				</div>
 				</div>
 		<div class="elementor-element elementor-element-de43b65 e-grid e-con-full footer-wagergeeks-cta-img elementor-hidden-tablet elementor-hidden-mobile e-con e-child" data-id="de43b65" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				</div>
@@ -3277,7 +3283,7 @@ closeButton.addEventListener('click',closePopup);
 overlay.addEventListener('click',closePopup);
 
 
-});</script>                <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+});</script>                
                 <link rel='stylesheet' id='widget-image-css' href='../../wp-content/plugins/elementor/assets/css/widget-image.min4d16.css?ver=3.35.5' media='all' />
 <link rel='stylesheet' id='widget-nav-menu-css' href='../../wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min68f4.css?ver=1783942184' media='all' />
 <link rel='stylesheet' id='widget-heading-css' href='../../wp-content/plugins/elementor/assets/css/widget-heading.min4d16.css?ver=3.35.5' media='all' />

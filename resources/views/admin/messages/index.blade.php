@@ -10,6 +10,7 @@
             <tr>
                 <th>Name</th>
                 <th>Email</th>
+                <th>Telegram</th>
                 <th>Subject</th>
                 <th>Date</th>
                 <th>Actions</th>
@@ -20,6 +21,7 @@
                 <tr>
                     <td>{{ $msg->name }}</td>
                     <td>{{ $msg->email }}</td>
+                    <td>{{ $msg->telegram_id ?? 'N/A' }}</td>
                     <td>{{ \Illuminate\Support\Str::limit($msg->subject, 30) }}</td>
                     <td>{{ $msg->created_at->format('M d, Y h:i A') }}</td>
                     <td>

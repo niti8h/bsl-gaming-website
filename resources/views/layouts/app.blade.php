@@ -302,7 +302,7 @@ setTimeout(function(){
 	"url": "https://www.wagergeeks.com/",
 	"address": {
 		"@@type": "PostalAddress",
-		"streetAddress": "ShreeRaj apartment, Sahil Kanha Park, Rau, 453331",
+		"streetAddress": "{!! \App\Models\Setting::where('key', 'address')->value('value') ?? 'ShreeRaj apartment, Sahil Kanha Park, Rau, 453331' !!}",
 		"addressLocality": "Indore",
 		"addressRegion": "Madhya Pradesh",
 		"postalCode": "453331",
@@ -2239,9 +2239,29 @@ Get in touch and let's build something epic together!</h3>				</div>
 --wpforms-button-size-margin-top: 10px;
 --wpforms-container-shadow-size-box-shadow: none;
 			}
-			</style><div class="wpforms-container wpforms-container-full submit-btn wpforms-render-modern" id="wpforms-10740"><form id="wpforms-form-10740" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="10740" method="post" enctype="multipart/form-data" action="https://www.wagergeeks.com/" data-token="9ecb9a6584efecd10e6e8c5390a5a3af" data-token-time="1783939503"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div id="wpforms-error-noscript" style="display: none;">Please enable JavaScript in your browser to complete this form.</div><div class="wpforms-field-container"><div id="wpforms-10740-field_8-container" class="wpforms-field wpforms-field-textarea content-section" data-field-id="8"><textarea id="wpforms-10740-field_8" class="wpforms-field-small" name="wpforms[fields][8]" aria-errormessage="wpforms-10740-field_8-error" aria-describedby="wpforms-10740-field_8-description" ></textarea><div id="wpforms-10740-field_8-description" class="wpforms-field-description"><h3 style="color:#fff;font-size:18px;font-family:Poppins;font-weight:600;">Let's talk business!</h3>
-
-<p style="color:#fff;line-height:20px;font-family:Poppins;font-weight:500;">Let’s create what the world plays. Share your requirements and our <br />experts will reach you shortly!</p></div></div><div id="wpforms-10740-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><fieldset><legend class="wpforms-field-label">Full Name <span class="wpforms-required-label" aria-hidden="true">*</span></legend><div class="wpforms-field-row wpforms-field-large"><div class="wpforms-field-row-block wpforms-first wpforms-one-half"><input type="text" id="wpforms-10740-field_0" class="wpforms-field-name-first wpforms-field-required" name="wpforms[fields][0][first]" placeholder="First Name" aria-errormessage="wpforms-10740-field_0-error" required><label for="wpforms-10740-field_0" class="wpforms-field-sublabel after wpforms-sublabel-hide">First</label></div><div class="wpforms-field-row-block wpforms-one-half"><input type="text" id="wpforms-10740-field_0-last" class="wpforms-field-name-last wpforms-field-required" name="wpforms[fields][0][last]" placeholder="Last Name" aria-errormessage="wpforms-10740-field_0-last-error" required><label for="wpforms-10740-field_0-last" class="wpforms-field-sublabel after wpforms-sublabel-hide">Last</label></div></div></fieldset></div><div id="wpforms-10740-field_7-container" class="wpforms-field wpforms-field-email" data-field-id="7"><label class="wpforms-field-label" for="wpforms-10740-field_7">Email <span class="wpforms-required-label" aria-hidden="true">*</span></label><input type="email" id="wpforms-10740-field_7" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][7]" placeholder="Email" spellcheck="false" aria-errormessage="wpforms-10740-field_7-error" required></div><div id="wpforms-10740-field_4-container" class="wpforms-field wpforms-field-text phone-field" data-field-id="4"><label class="wpforms-field-label" for="wpforms-10740-field_4">Phone Number <span class="wpforms-required-label" aria-hidden="true">*</span></label><input type="text" id="wpforms-10740-field_4" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][4]" placeholder="Phone Number" aria-errormessage="wpforms-10740-field_4-error" required></div><div id="wpforms-10740-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-10740-field_2">Message <span class="wpforms-required-label" aria-hidden="true">*</span></label><textarea id="wpforms-10740-field_2" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][2]" placeholder="Message" aria-errormessage="wpforms-10740-field_2-error" required></textarea></div></div><!-- .wpforms-field-container --><div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="10740"><input type="hidden" name="page_title" value="BSL Gaming"><input type="hidden" name="page_url" value="index.html"><input type="hidden" name="url_referer" value=""><input type="hidden" name="page_id" value="20158"><input type="hidden" name="wpforms[post_id]" value="20158"><button type="submit" name="wpforms[submit]" id="wpforms-submit-10740" class="wpforms-submit button" data-alt-text="Sending..." data-submit-text="Send" aria-live="assertive" value="wpforms-submit">Send</button><img src="/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt="Loading"></div></form></div>  <!-- .wpforms-container -->				</div>
+			</style><style>
+.contact-form-custom { background: rgba(0,0,0,0.5); padding: 30px; border-radius: 10px; }
+.contact-form-custom input, .contact-form-custom textarea { width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #555; background: #222; color: #fff; margin-bottom: 15px; }
+.contact-form-custom button { background: #D4AF37; color: #000; padding: 12px 30px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; font-size: 16px; transition: background 0.3s; }
+.contact-form-custom button:hover { background: #b8972e; }
+.contact-form-custom label { color:#fff; display:block; margin-bottom: 5px; }
+</style>
+<div class="contact-form-custom">
+	<form method="POST" action="{{ route('contact.submit') }}">
+		@csrf
+		<h3 style="color:#fff; margin-bottom: 10px; font-size: 18px;">Let's talk business!</h3>
+		<p style="color:#fff; margin-bottom: 20px; font-size: 14px;">Let’s create what the world plays. Share your requirements and our experts will reach you shortly!</p>
+		<label>Full Name *</label>
+		<input type="text" name="name" required placeholder="Your Name">
+		<label>Email *</label>
+		<input type="email" name="email" required placeholder="Your Email">
+		<label>Phone Number *</label>
+		<input type="text" name="phone_number" required placeholder="Your Phone Number">
+		<label>Message *</label>
+		<textarea name="message" required placeholder="Message" style="min-height: 120px;"></textarea>
+		<button type="submit">Send Message</button>
+	</form>
+</div>				</div>
 				</div>
 		<div class="elementor-element elementor-element-de43b65 e-grid e-con-full footer-wagergeeks-cta-img elementor-hidden-tablet elementor-hidden-mobile e-con e-child" data-id="de43b65" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				</div>
@@ -2387,33 +2407,33 @@ Get in touch and let's build something epic together!</h3>				</div>
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="tel:+91-9340747662">
+											<a href="tel:{{ \App\Models\Setting::where('key', 'phone')->value('value') ?? '+91-9340747662' }}">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="simple-line-icons icon-phone"></i>						</span>
-										<span class="elementor-icon-list-text">IND +91-9340747662</span>
+										<span class="elementor-icon-list-text">{{ \App\Models\Setting::where('key', 'phone')->value('value') ?? 'IND +91-9340747662' }}</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="/cdn-cgi/l/email-protection.html#98f1f6fef7d8eff9fffdeafffdfdf3ebb6fbf7f5">
+											<a href="mailto:{{ \App\Models\Setting::where('key', 'email')->value('value') ?? 'info@bslgaming.com' }}">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
-										<span class="elementor-icon-list-text"><span><span class="__cf_email__" data-cfemail="31585f575e7146505654435654545a421f525e5c">[email&#160;protected]</span></span></span>
+										<span class="elementor-icon-list-text">{{ \App\Models\Setting::where('key', 'email')->value('value') ?? 'info@bslgaming.com' }}</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="/cdn-cgi/l/email-protection.html#3645575a53457641575153445153535d451855595b">
+											<a href="mailto:{{ \App\Models\Setting::where('key', 'email2')->value('value') ?? 'sales@bslgaming.com' }}">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
-										<span class="elementor-icon-list-text"><span><span class="__cf_email__" data-cfemail="0172606d64724176606664736664646a722f626e6c">[email&#160;protected]</span></span></span>
+										<span class="elementor-icon-list-text">{{ \App\Models\Setting::where('key', 'email2')->value('value') ?? 'sales@bslgaming.com' }}</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="simple-line-icons icon-location-pin"></i>						</span>
-										<span class="elementor-icon-list-text">ShreeRaj apartment, Sahil <br>Kanha Park, Rau, 453331</span>
+										<span class="elementor-icon-list-text">{!! \App\Models\Setting::where('key', 'address')->value('value') ?? 'ShreeRaj apartment, Sahil <br>Kanha Park, Rau, 453331' !!}</span>
 									</li>
 						</ul>
 						</div>
@@ -2426,7 +2446,7 @@ Get in touch and let's build something epic together!</h3>				</div>
 					<i aria-hidden="true" class="simple-line-icons icon-location-pin"></i>				</div>
 			
 			<div class="xpro-infolist-content">
-													<p class="xpro-infolist-desc">ShreeRaj apartment, Sahil Kanha Park, Rau, 453331</p>
+													<p class="xpro-infolist-desc">{!! \App\Models\Setting::where('key', 'address')->value('value') ?? 'ShreeRaj apartment, Sahil Kanha Park, Rau, 453331' !!}</p>
 							</div>
 					</li>
 	</ul>
@@ -2663,22 +2683,20 @@ Get in touch and let's build something epic together!</h3>				</div>
 --wpforms-button-size-margin-top: 10px;
 --wpforms-container-shadow-size-box-shadow: none;
 			}
-			</style><div class="wpforms-container wpforms-container-full wpforms-render-modern" id="wpforms-12352"><form id="wpforms-form-12352" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="12352" method="post" enctype="multipart/form-data" action="https://www.wagergeeks.com/" data-token="883dfa672457d243c15b8dd7ea4a9ccb" data-token-time="1783939503"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div id="wpforms-error-noscript" style="display: none;">Please enable JavaScript in your browser to complete this form.</div><div class="wpforms-field-container"><div id="wpforms-12352-field_0-container" class="wpforms-field wpforms-field-name pop-inner" data-field-id="0"><label class="wpforms-field-label" for="wpforms-12352-field_0">Name <span class="wpforms-required-label" aria-hidden="true">*</span></label><input type="text" id="wpforms-12352-field_0" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][0]" placeholder="Enter Name" aria-errormessage="wpforms-12352-field_0-error" required></div><div id="wpforms-12352-field_1-container" class="wpforms-field wpforms-field-email pop-inner" data-field-id="1"><label class="wpforms-field-label" for="wpforms-12352-field_1">Email Id <span class="wpforms-required-label" aria-hidden="true">*</span></label><input type="email" id="wpforms-12352-field_1" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][1]" placeholder="Enter Email Id" spellcheck="false" aria-errormessage="wpforms-12352-field_1-error" required></div>		<div id="wpforms-12352-field_3-container"
-			class="wpforms-field wpforms-field-text"
-			data-field-type="text"
-			data-field-id="3"
-			>
-			<label class="wpforms-field-label" for="wpforms-12352-field_3" >assist How can</label>
-			<input type="text" id="wpforms-12352-field_3" class="wpforms-field-medium" name="wpforms[fields][3]" >
-		</div>
-		<div id="wpforms-12352-field_4-container" class="wpforms-field wpforms-field-text country_flag" data-field-id="4"><label class="wpforms-field-label" for="wpforms-12352-field_4">Phone Number <span class="wpforms-required-label" aria-hidden="true">*</span></label><input type="text" id="wpforms-12352-field_4" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][4]" placeholder="Phone Number" aria-errormessage="wpforms-12352-field_4-error" required></div><div id="wpforms-12352-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-12352-field_2">How can we assist you??? <span class="wpforms-required-label" aria-hidden="true">*</span></label><textarea id="wpforms-12352-field_2" class="wpforms-field-small wpforms-field-required" name="wpforms[fields][2]" placeholder="Enter your Message" aria-errormessage="wpforms-12352-field_2-error" required></textarea></div><script>
-				( function() {
-					const style = document.createElement( 'style' );
-					style.appendChild( document.createTextNode( '#wpforms-12352-field_3-container { position: absolute !important; overflow: hidden !important; display: inline !important; height: 1px !important; width: 1px !important; z-index: -1000 !important; padding: 0 !important; } #wpforms-12352-field_3-container input { visibility: hidden; } #wpforms-conversational-form-page #wpforms-12352-field_3-container label { counter-increment: none; }' ) );
-					document.head.appendChild( style );
-					document.currentScript?.remove();
-				} )();
-			</script></div><!-- .wpforms-field-container --><div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="12352"><input type="hidden" name="page_title" value="BSL Gaming"><input type="hidden" name="page_url" value="https://www.wagergeeks.com/"><input type="hidden" name="url_referer" value=""><input type="hidden" name="page_id" value="20158"><input type="hidden" name="wpforms[post_id]" value="20158"><button type="submit" name="wpforms[submit]" id="wpforms-submit-12352" class="wpforms-submit pop-up-btn" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">Submit</button><img src="/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt="Loading"></div></form></div>  <!-- .wpforms-container -->                </div>
+			</style><div class="contact-form-custom" style="background: transparent; padding: 10px;">
+	<form method="POST" action="{{ route('contact.submit') }}">
+		@csrf
+		<label>Name *</label>
+		<input type="text" name="name" required placeholder="Enter Name">
+		<label>Email Id *</label>
+		<input type="email" name="email" required placeholder="Enter Email Id">
+		<label>Phone Number *</label>
+		<input type="text" name="phone_number" required placeholder="Phone Number">
+		<label>How can we assist you??? *</label>
+		<textarea name="message" required placeholder="Enter your Message" style="min-height: 100px;"></textarea>
+		<button type="submit" class="pop-up-btn" style="width: 100%; border-radius: 5px; padding: 12px; background: #D4AF37; font-weight: bold; color: black; border: none;">Submit</button>
+	</form>
+</div>                </div>
             </div>
         </div>
 

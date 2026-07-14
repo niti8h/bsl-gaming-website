@@ -139,6 +139,8 @@
 					<div style="margin-bottom: 15px;">
 						<label style="color:#fff; display:block; margin-bottom: 5px;">Phone Number *</label>
 						<input type="text" name="phone_number" required style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #555; background: #222; color: #fff;" placeholder="Your Phone Number">
+						<br><br>
+						<input type="text" name="telegram_id" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #555; background: #222; color: #fff;" placeholder="Telegram ID (Optional)">
 					</div>
 
 					<div style="margin-bottom: 15px;">
