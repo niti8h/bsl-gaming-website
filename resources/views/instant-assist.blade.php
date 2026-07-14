@@ -28,14 +28,7 @@
 									<p>Deliver live match commentary, manage betting risks, and engage users with intelligent AI chatbot solution.<br />Turn conversations into conversions with Instant Assist.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-4dda775 elementor-align-left bor elementor-mobile-align-center elementor-widget elementor-widget-xpro-button" data-id="4dda775" data-element_type="widget" data-e-type="widget" data-widget_type="xpro-button.default">
-				<div class="elementor-widget-container">
-					
-<a href="#" class="xpro-elementor-button xpro-button-2d-animation hvr-grow xpro-align-icon-right" target="_blank" rel="noopener">
-<span class="xpro-elementor-button-inner">
-<span class="xpro-button-text">Test It Live</span>
-</span>
-</a>
-				</div>
+				
 				</div>
 				</div>
 				</div>

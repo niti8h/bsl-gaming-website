@@ -153,15 +153,7 @@
 					<p class="elementor-heading-title elementor-size-default">CONNECT WITH OUR EXPERTS ON TELEGRAM</p>				</div>
 				</div>
 				<div class="elementor-element elementor-element-1a69d67 elementor-widget elementor-widget-button" data-id="1a69d67" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#" target="_blank" rel="nofollow">
-						<span class="elementor-button-content-wrapper">
-									<span class="elementor-button-text">VISIT US</span>
-					</span>
-					</a>
-				</div>
-								</div>
+				
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-f73bf18 e-con-full e-flex e-con e-child" data-id="f73bf18" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">

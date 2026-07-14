@@ -484,14 +484,7 @@
 									<p>Harness the power of AI-driven risk management to secure your sportsbook from fraud, volatility, and compliance pitfalls.</p><p>Ready to protect your platform and profits?<br />Let’s Talk Risk-Free Growth with Instant Assist.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-f6f76e2 elementor-align-center bor elementor-mobile-align-center elementor-widget elementor-widget-xpro-button" data-id="f6f76e2" data-element_type="widget" data-e-type="widget" data-widget_type="xpro-button.default">
-				<div class="elementor-widget-container">
-					
-<a href="#" class="xpro-elementor-button xpro-button-2d-animation hvr-grow xpro-align-icon-right" target="_blank" rel="noopener">
-<span class="xpro-elementor-button-inner">
-<span class="xpro-button-text">See Instant Assist in Action</span>
-</span>
-</a>
-				</div>
+				
 				</div>
 				</div>
 				</div>

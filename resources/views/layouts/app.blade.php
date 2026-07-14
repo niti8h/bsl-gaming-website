@@ -1706,17 +1706,7 @@ i.jltma-el-accordion-icon-opened {
 								</div>
 				</div>
 				<div class="elementor-element elementor-element-89bf097 elementor-align-center right-but-follow-us elementor-widget elementor-widget-button" data-id="89bf097" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="#" target="_blank" rel="nofollow">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon">
-				<i aria-hidden="true" class="fas fa-thumbs-up"></i>			</span>
-									<span class="elementor-button-text">Follow Us</span>
-					</span>
-					</a>
-				</div>
-								</div>
+				
 				</div>
 				</div>
 					</div>
@@ -1827,17 +1817,7 @@ i.jltma-el-accordion-icon-opened {
 								</div>
 				</div>
 				<div class="elementor-element elementor-element-5c5bc43 elementor-align-center right-but-follow-us elementor-widget elementor-widget-button" data-id="5c5bc43" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="#" target="_blank" rel="nofollow">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon">
-				<i aria-hidden="true" class="fas fa-thumbs-up"></i>			</span>
-									<span class="elementor-button-text">Follow Us</span>
-					</span>
-					</a>
-				</div>
-								</div>
+				
 				</div>
 				</div>
 					</div>
