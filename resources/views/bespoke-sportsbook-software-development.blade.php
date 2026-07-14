@@ -1,0 +1,1312 @@
+@extends('layouts.app')
+@section('content')
+@push('styles')
+<link rel='stylesheet' id='pafe-43254-css' href='/wp-content/uploads/premium-addons-elementor/pafe-432548506.css?ver=1783663926' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInUp-css' href='/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min4d16.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='elementor-post-43254-css' href='/wp-content/uploads/elementor/css/post-43254b82d.css?ver=1783717578' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-2-css' href='/wp-content/plugins/master-addons/assets/fonts/iconic-fonts/iconic-font.min4c71.css?ver=2.1.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-iconic-fonts-css' href='/wp-content/plugins/master-addons/assets/fonts/iconic-fonts/iconic-font.min4c71.css?ver=2.1.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-4-css' href='/wp-content/plugins/master-addons/assets/fonts/material-icons/material-icons4c71.css?ver=2.1.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-material-icons-css' href='/wp-content/plugins/master-addons/assets/fonts/material-icons/material-icons4c71.css?ver=2.1.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' media='all' />
+@endpush
+
+
+
+	
+<main id="content" class="site-main post-43254 page type-page status-publish hentry">
+
+	
+	<div class="page-content">
+				<div data-elementor-type="wp-page" data-elementor-id="43254" class="elementor elementor-43254" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-6935e7e e-flex e-con-boxed e-con e-parent" data-id="6935e7e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-7d67b36 e-con-full e-flex e-con e-child" data-id="7d67b36" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-8148811 textoDegradado elementor-widget elementor-widget-heading" data-id="8148811" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bespoke Sportsbook <span>Software Development</span></h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4f39955 elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="4f39955" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Build a high-performance platform with our bespoke sportsbook software development solutions, designed for scalability, speed, and profitability while delivering seamless betting experiences in a highly competitive market.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7d39170 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7d39170" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-bullseye"></i>						</span>
+										<span class="elementor-icon-list-text">100% custom sportsbook solutions</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-bullseye"></i>						</span>
+										<span class="elementor-icon-list-text">24/7 automated risk management</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-bullseye"></i>						</span>
+										<span class="elementor-icon-list-text">99.9% uptime with scalable infrastructure</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-bullseye"></i>						</span>
+										<span class="elementor-icon-list-text">2x higher player engagement with optimized UI/UX</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-bullseye"></i>						</span>
+										<span class="elementor-icon-list-text">AI-powered sportsbook risk control</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-bullseye"></i>						</span>
+										<span class="elementor-icon-list-text">Multi-currency and global market support</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-03783e5 elementor-align-left bor elementor-mobile-align-center elementor-tablet-align-left elementor-widget elementor-widget-xpro-button" data-id="03783e5" data-element_type="widget" data-e-type="widget" data-widget_type="xpro-button.default">
+				<div class="elementor-widget-container">
+					
+<a  href="#footer-contact-touch" class="xpro-elementor-button xpro-button-2d-animation hvr-grow xpro-align-icon-right">
+<span class="xpro-elementor-button-inner">
+<span class="xpro-button-text">Get In Touch</span>
+</span>
+</a>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8679064 e-con-full e-flex e-con e-child" data-id="8679064" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-f7340b1 banner-blockchain-img elementor-widget elementor-widget-image" data-id="f7340b1" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="/img/aws-images/Bespoke-Sportsbook-Software.webp" title="" alt="" loading="lazy" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5b94a64 e-flex e-con-boxed e-con e-parent" data-id="5b94a64" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3150d83 e-con-full e-flex e-con e-child" data-id="3150d83" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-d6561c0 e-con-full e-flex e-con e-child" data-id="d6561c0" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-e59cc88 elementor-widget__width-inherit textoDegradado elementor-invisible elementor-widget elementor-widget-heading" data-id="e59cc88" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Empowering Operators with Custom <span>SportsBook Software Development Services</span></h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-bfdb29b e-con-full e-flex e-con e-child" data-id="bfdb29b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6afc958 elementor-align-right elementor-widget__width-auto elementor-mobile-align-center animated-fast elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-xpro-button" data-id="6afc958" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="xpro-button.default">
+				<div class="elementor-widget-container">
+					
+<a  href="#footer-contact-touch" class="xpro-elementor-button xpro-elementor-button-animation-none xpro-align-icon-right">
+<span class="xpro-elementor-button-inner">
+<span class="xpro-button-text">Talk To Us</span>
+</span>
+</a>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-eafac60 elementor-widget elementor-widget-elementskit-heading" data-id="eafac60" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-text_center"><div class="ekit_heading_separetor_wraper ekit_heading_elementskit-border-divider elementskit-style-long"><div class="elementskit-border-divider elementskit-style-long"></div></div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-675f71c e-grid e-con-full e-con e-child" data-id="675f71c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-3149c67 elementor-widget elementor-widget-text-editor" data-id="3149c67" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Generic platforms often restrict innovation and limit your ability to stand out. With bespoke sportsbook software development, operators gain full control over features, user experience, and betting flows—enabling a platform that truly reflects their brand and business goals.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a1bf979 elementor-widget elementor-widget-text-editor" data-id="a1bf979" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Custom solutions also offer greater scalability and flexibility, allowing seamless integration of advanced tools like AI-driven risk management and real-time analytics. This ensures faster adaptation to market trends, improved performance, and long-term profitability.</p>								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-56ab98e e-flex e-con-boxed e-con e-parent" data-id="56ab98e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-cf684f8 elementor-widget__width-initial textoDegradado elementor-widget elementor-widget-elementskit-heading" data-id="cf684f8" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">Advanced Features Of Our Custom <span>SportsBook Platform Development</span></h2>				<div class='ekit-heading__description'>
+					<p>Our custom sportsbook platform development solutions are equipped with powerful, future-ready features designed to enhance performance, engagement, and operational control. Each feature is built to deliver seamless betting experiences while maximizing efficiency and profitability.</p>
+				</div>
+			</div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-2d71ecf e-grid e-con-full SportsBook-Bespoke e-con e-child" data-id="2d71ecf" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-71e1b7a e-con-full SportsBook-Plateform-Development e-flex e-con e-child" data-id="71e1b7a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-27df263 elementor-widget elementor-widget-heading" data-id="27df263" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Dynamic Odds Engine</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1038e0b elementor-view-default elementor-widget elementor-widget-icon" data-id="1038e0b" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="im im-timer"></i>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1d30aba elementor-widget elementor-widget-text-editor" data-id="1d30aba" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Real-time odds updates powered by intelligent algorithms, ensuring accurate pricing and optimized margins across all betting markets.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-02a7b67 e-con-full SportsBook-Plateform-Development e-flex e-con e-child" data-id="02a7b67" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-1ed761d elementor-widget elementor-widget-heading" data-id="1ed761d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Live Betting Experience</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-30330fd elementor-view-default elementor-widget elementor-widget-icon" data-id="30330fd" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="jltma-material-icon jltma-material-icon-sports_basketball"></i>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a914412 elementor-widget elementor-widget-text-editor" data-id="a914412" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Deliver seamless in-play betting with ultra-low latency, real-time updates, and smooth user interactions during live events.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a303f08 e-con-full SportsBook-Plateform-Development e-flex e-con e-child" data-id="a303f08" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-2d3282d elementor-widget elementor-widget-heading" data-id="2d3282d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">AI Risk Intelligence</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ab7f504 elementor-view-default elementor-widget elementor-widget-icon" data-id="ab7f504" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-user-secret"></i>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c055fb7 elementor-widget elementor-widget-text-editor" data-id="c055fb7" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Leverage AI-driven tools to monitor betting patterns, manage exposure, and make smarter risk decisions in real time.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5bc4c1f e-con-full SportsBook-Plateform-Development e-flex e-con e-child" data-id="5bc4c1f" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-a868b3b elementor-widget elementor-widget-heading" data-id="a868b3b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Custom Bet Builder</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7c3c545 elementor-view-default elementor-widget elementor-widget-icon" data-id="7c3c545" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="jltma-material-icon jltma-material-icon-attach_money"></i>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ad94444 elementor-widget elementor-widget-text-editor" data-id="ad94444" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Allow users to create personalized bet combinations, boosting engagement and increasing overall betting activity.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-66fc87e e-con-full SportsBook-Plateform-Development e-flex e-con e-child" data-id="66fc87e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-42eb92c elementor-widget elementor-widget-heading" data-id="42eb92c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Multi-Tenant Capability</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ae30096 elementor-view-default elementor-widget elementor-widget-icon" data-id="ae30096" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="im im-database"></i>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-8e0ee54 elementor-widget elementor-widget-text-editor" data-id="8e0ee54" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Operate and manage multiple brands or platforms from a single, scalable and centralized system.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7b6f437 e-con-full SportsBook-Plateform-Development e-flex e-con e-child" data-id="7b6f437" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5a4d98b elementor-widget elementor-widget-heading" data-id="5a4d98b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Seamless Payment Ecosystem</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-94ce774 elementor-view-default elementor-widget elementor-widget-icon" data-id="94ce774" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="im im-paypal"></i>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-949c08a elementor-widget elementor-widget-text-editor" data-id="949c08a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Support multiple payment gateways with fast processing, secure transactions, and global currency compatibility.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-510c174 e-con-full SportsBook-Plateform-Development e-flex e-con e-child" data-id="510c174" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-dc4cc0b elementor-widget elementor-widget-heading" data-id="dc4cc0b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Advanced Player Insights
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5c4249e elementor-view-default elementor-widget elementor-widget-icon" data-id="5c4249e" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="jltma-material-icon jltma-material-icon-games"></i>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-421c63e elementor-widget elementor-widget-text-editor" data-id="421c63e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Gain deep insights into user behavior, preferences, and activity to improve retention and maximize lifetime value.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ea8e5ab e-con-full SportsBook-Plateform-Development e-flex e-con e-child" data-id="ea8e5ab" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-3e5eb50 elementor-widget elementor-widget-heading" data-id="3e5eb50" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">API-First Architecture
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5200fff elementor-view-default elementor-widget elementor-widget-icon" data-id="5200fff" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="simple-line-icons icon-settings"></i>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7d151bd elementor-widget elementor-widget-text-editor" data-id="7d151bd" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Easily integrate third-party services, data feeds, and features with a flexible and developer-friendly API framework.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-96f5bdb e-con-full SportsBook-Plateform-Development e-flex e-con e-child" data-id="96f5bdb" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-3185f8b elementor-widget elementor-widget-heading" data-id="3185f8b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">High-Performance Backend</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-14dd371 elementor-view-default elementor-widget elementor-widget-icon" data-id="14dd371" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="im im-rocket"></i>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-83eda94 elementor-widget elementor-widget-text-editor" data-id="83eda94" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Built on robust infrastructure to handle heavy traffic loads while ensuring stability, speed, and reliability.</p>								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-649ce45 e-flex e-con-boxed e-con e-parent" data-id="649ce45" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d827d9b e-con-full e-flex e-con e-child" data-id="d827d9b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-49403eb e-con-full e-flex e-con e-child" data-id="49403eb" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-3cb3de3 e-con-full e-flex e-con e-child" data-id="3cb3de3" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-b219dae textoDegradado elementor-widget elementor-widget-heading" data-id="b219dae" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">WagerGeek’s Comprehensive <span>Bespoke SportsBook Software</span> Development Services</h1>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-293abd5 e-con-full e-flex e-con e-child" data-id="293abd5" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-c391fa4 elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="c391fa4" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>WagerGeek’s bespoke sportsbook software development services are tailored to cover every aspect of building, launching, and scaling a successful betting platform. From custom development to advanced integrations, we deliver tailored solutions that align with your operational goals and market demands.</p>								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1b0a779 e-grid e-con-full e-con e-child" data-id="1b0a779" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-f6156b3 e-con-full e-flex e-con e-child" data-id="f6156b3" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6600af7 elementor-widget elementor-widget-premium-svg-drawer" data-id="6600af7" data-element_type="widget" data-e-type="widget" data-widget_type="premium-svg-drawer.default">
+				<div class="elementor-widget-container">
+					
+			<div class="premium-svg-draw elementor-invisible">
+
+				
+				
+					<svg id='premium-svg-icon-6600af7' class="svg-inline--fas-fa-football-ball premium-svg-icon" data-start='manual' aria-hidden='true' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 496 512'><path d="M481.5 60.3c-4.8-18.2-19.1-32.5-37.3-37.4C420.3 16.5 383 8.9 339.4 8L496 164.8c-.8-43.5-8.2-80.6-14.5-104.5zm-467 391.4c4.8 18.2 19.1 32.5 37.3 37.4 23.9 6.4 61.2 14 104.8 14.9L0 347.2c.8 43.5 8.2 80.6 14.5 104.5zM4.2 283.4L220.4 500c132.5-19.4 248.8-118.7 271.5-271.4L275.6 12C143.1 31.4 26.8 130.7 4.2 283.4zm317.3-123.6c3.1-3.1 8.2-3.1 11.3 0l11.3 11.3c3.1 3.1 3.1 8.2 0 11.3l-28.3 28.3 28.3 28.3c3.1 3.1 3.1 8.2 0 11.3l-11.3 11.3c-3.1 3.1-8.2 3.1-11.3 0l-28.3-28.3-22.6 22.7 28.3 28.3c3.1 3.1 3.1 8.2 0 11.3l-11.3 11.3c-3.1 3.1-8.2 3.1-11.3 0L248 278.6l-22.6 22.6 28.3 28.3c3.1 3.1 3.1 8.2 0 11.3l-11.3 11.3c-3.1 3.1-8.2 3.1-11.3 0l-28.3-28.3-28.3 28.3c-3.1 3.1-8.2 3.1-11.3 0l-11.3-11.3c-3.1-3.1-3.1-8.2 0-11.3l28.3-28.3-28.3-28.2c-3.1-3.1-3.1-8.2 0-11.3l11.3-11.3c3.1-3.1 8.2-3.1 11.3 0l28.3 28.3 22.6-22.6-28.3-28.3c-3.1-3.1-3.1-8.2 0-11.3l11.3-11.3c3.1-3.1 8.2-3.1 11.3 0l28.3 28.3 22.6-22.6-28.3-28.3c-3.1-3.1-3.1-8.2 0-11.3l11.3-11.3c3.1-3.1 8.2-3.1 11.3 0l28.3 28.3 28.3-28.5z"></path></svg>
+				
+				
+			</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-38909de premium-title-color elementor-widget elementor-widget-premium-addon-title" data-id="38909de" data-element_type="widget" data-e-type="widget" data-widget_type="premium-addon-title.default">
+				<div class="elementor-widget-container">
+					
+		<div class="premium-title-container style1">
+			<h3 class="premium-title-header premium-title-style1">
+				
+				
+												<span class="premium-title-text">
+					Custom Sportsbook Platform Development				</span>
+					
+								
+							</h3>
+
+		</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4070024 elementor-widget elementor-widget-text-editor" data-id="4070024" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>End-to-end development of a fully tailored sportsbook platform, built to match your business model, features, and user experience requirements.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-dcbca13 e-con-full e-flex e-con e-child" data-id="dcbca13" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6667287 elementor-widget elementor-widget-premium-svg-drawer" data-id="6667287" data-element_type="widget" data-e-type="widget" data-widget_type="premium-svg-drawer.default">
+				<div class="elementor-widget-container">
+					
+			<div class="premium-svg-draw elementor-invisible">
+
+				
+				
+					<svg id='premium-svg-icon-6667287' class="svg-inline--far-fa-compass premium-svg-icon" data-start='manual' aria-hidden='true' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 496 512'><path d="M347.94 129.86L203.6 195.83a31.938 31.938 0 0 0-15.77 15.77l-65.97 144.34c-7.61 16.65 9.54 33.81 26.2 26.2l144.34-65.97a31.938 31.938 0 0 0 15.77-15.77l65.97-144.34c7.61-16.66-9.54-33.81-26.2-26.2zm-77.36 148.72c-12.47 12.47-32.69 12.47-45.16 0-12.47-12.47-12.47-32.69 0-45.16 12.47-12.47 32.69-12.47 45.16 0 12.47 12.47 12.47 32.69 0 45.16zM248 8C111.03 8 0 119.03 0 256s111.03 248 248 248 248-111.03 248-248S384.97 8 248 8zm0 448c-110.28 0-200-89.72-200-200S137.72 56 248 56s200 89.72 200 200-89.72 200-200 200z"></path></svg>
+				
+				
+			</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7f636dd premium-title-color elementor-widget elementor-widget-premium-addon-title" data-id="7f636dd" data-element_type="widget" data-e-type="widget" data-widget_type="premium-addon-title.default">
+				<div class="elementor-widget-container">
+					
+		<div class="premium-title-container style1">
+			<h3 class="premium-title-header premium-title-style1">
+				
+				
+												<span class="premium-title-text">
+					AI-Based Risk Management Solutions				</span>
+					
+								
+							</h3>
+
+		</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-dd89367 elementor-widget elementor-widget-text-editor" data-id="dd89367" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Implementation of intelligent systems to monitor betting patterns, control liabilities, and optimize profitability in real time.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2013ff4 e-con-full e-flex e-con e-child" data-id="2013ff4" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-ce3c225 elementor-widget elementor-widget-premium-svg-drawer" data-id="ce3c225" data-element_type="widget" data-e-type="widget" data-widget_type="premium-svg-drawer.default">
+				<div class="elementor-widget-container">
+					
+			<div class="premium-svg-draw elementor-invisible">
+
+				
+				
+					<i aria-hidden="true" id="premium-svg-icon-ce3c225" class="premium-svg-icon im im-data" data-start="manual"></i>
+				
+				
+			</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3ce961a premium-title-color elementor-widget elementor-widget-premium-addon-title" data-id="3ce961a" data-element_type="widget" data-e-type="widget" data-widget_type="premium-addon-title.default">
+				<div class="elementor-widget-container">
+					
+		<div class="premium-title-container style1">
+			<h3 class="premium-title-header premium-title-style1">
+				
+				
+												<span class="premium-title-text">
+					Odds &amp; Data Feed Integration				</span>
+					
+								
+							</h3>
+
+		</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-8f335eb elementor-widget elementor-widget-text-editor" data-id="8f335eb" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Seamless integration of real-time odds providers and sports data feeds to ensure accurate, fast, and reliable betting information.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9264ab9 e-con-full e-flex e-con e-child" data-id="9264ab9" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-00c65ab elementor-widget elementor-widget-premium-svg-drawer" data-id="00c65ab" data-element_type="widget" data-e-type="widget" data-widget_type="premium-svg-drawer.default">
+				<div class="elementor-widget-container">
+					
+			<div class="premium-svg-draw elementor-invisible">
+
+				
+				
+					<svg id='premium-svg-icon-00c65ab' class="svg-inline--fas-fa-laptop-code premium-svg-icon" data-start='manual' aria-hidden='true' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 512'><path d="M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63l58.35 58.34zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63zM624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"></path></svg>
+				
+				
+			</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-42e2225 premium-title-color elementor-widget elementor-widget-premium-addon-title" data-id="42e2225" data-element_type="widget" data-e-type="widget" data-widget_type="premium-addon-title.default">
+				<div class="elementor-widget-container">
+					
+		<div class="premium-title-container style1">
+			<h3 class="premium-title-header premium-title-style1">
+				
+				
+												<span class="premium-title-text">
+					UI/UX Design &amp; Frontend Development				</span>
+					
+								
+							</h3>
+
+		</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ba8a151 elementor-widget elementor-widget-text-editor" data-id="ba8a151" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Create intuitive, high-converting interfaces designed to enhance user engagement, retention, and overall betting experience.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-be899aa e-con-full e-flex e-con e-child" data-id="be899aa" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-f4af6a7 elementor-widget elementor-widget-premium-svg-drawer" data-id="f4af6a7" data-element_type="widget" data-e-type="widget" data-widget_type="premium-svg-drawer.default">
+				<div class="elementor-widget-container">
+					
+			<div class="premium-svg-draw elementor-invisible">
+
+				
+				
+					<svg id='premium-svg-icon-f4af6a7' class="svg-inline--fas-fa-wallet premium-svg-icon" data-start='manual' aria-hidden='true' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><path d="M461.2 128H80c-8.84 0-16-7.16-16-16s7.16-16 16-16h384c8.84 0 16-7.16 16-16 0-26.51-21.49-48-48-48H64C28.65 32 0 60.65 0 96v320c0 35.35 28.65 64 64 64h397.2c28.02 0 50.8-21.53 50.8-48V176c0-26.47-22.78-48-50.8-48zM416 336c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32z"></path></svg>
+				
+				
+			</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a86d12d premium-title-color elementor-widget elementor-widget-premium-addon-title" data-id="a86d12d" data-element_type="widget" data-e-type="widget" data-widget_type="premium-addon-title.default">
+				<div class="elementor-widget-container">
+					
+		<div class="premium-title-container style1">
+			<h3 class="premium-title-header premium-title-style1">
+				
+				
+												<span class="premium-title-text">
+					Payment Gateway &amp; Wallet Integration				</span>
+					
+								
+							</h3>
+
+		</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-76fd487 elementor-widget elementor-widget-text-editor" data-id="76fd487" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Secure and flexible payment solutions with multi-currency support, fast processing, and smooth transaction management.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0fb6fd0 e-con-full e-flex e-con e-child" data-id="0fb6fd0" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-33f97db elementor-widget elementor-widget-premium-svg-drawer" data-id="33f97db" data-element_type="widget" data-e-type="widget" data-widget_type="premium-svg-drawer.default">
+				<div class="elementor-widget-container">
+					
+			<div class="premium-svg-draw elementor-invisible">
+
+				
+				
+					<i aria-hidden="true" id="premium-svg-icon-33f97db" class="premium-svg-icon simple-line-icons icon-support" data-start="manual"></i>
+				
+				
+			</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d790ff6 premium-title-color elementor-widget elementor-widget-premium-addon-title" data-id="d790ff6" data-element_type="widget" data-e-type="widget" data-widget_type="premium-addon-title.default">
+				<div class="elementor-widget-container">
+					
+		<div class="premium-title-container style1">
+			<h3 class="premium-title-header premium-title-style1">
+				
+				
+												<span class="premium-title-text">
+					Post-Launch Support &amp; Optimization				</span>
+					
+								
+							</h3>
+
+		</div>
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-447d71b elementor-widget elementor-widget-text-editor" data-id="447d71b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Ongoing technical support, performance monitoring, and feature upgrades to ensure your sportsbook stays competitive and scalable.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f0a4195 e-flex e-con-boxed e-con e-parent" data-id="f0a4195" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;none&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-09cdf1e e-con-full e-flex e-con e-child" data-id="09cdf1e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-301ee82 e-con-full vision-into-reality e-flex e-con e-child" data-id="301ee82" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-c1e335c ekit-equal-height-enable elementor-widget__width-initial button-bg-color-gradient elementor-widget elementor-widget-elementskit-icon-box" data-id="c1e335c" data-element_type="widget" data-e-type="widget" id="launch-high-performance" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Launch a High-Performance Sportsbook Now                </h3>
+                        		  	<p>Launch a high-performance platform with bespoke sportsbook software development designed for speed, scalability, and growth. Turn your vision into a powerful, revenue-driven betting experience.</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0969326 elementor-align-left elementor-widget__width-auto elementor-mobile-align-center animated-fast elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-xpro-button" data-id="0969326" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="xpro-button.default">
+				<div class="elementor-widget-container">
+					
+<a  href="/contact" class="xpro-elementor-button xpro-elementor-button-animation-none xpro-align-icon-right">
+<span class="xpro-elementor-button-inner">
+<span class="xpro-button-text">Launch Your SportsBook</span>
+</span>
+</a>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8b1e793 e-con-full e-flex e-con e-parent" data-id="8b1e793" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-ac1a676 textoDegradado elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="ac1a676" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default"><span>Custom SportsBook</span> Platform Development Roadmap
+</h1>				</div>
+				</div>
+		<div class="elementor-element elementor-element-68f5e77 e-flex e-con-boxed e-con e-child" data-id="68f5e77" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-4d6fe4e e-con-full e-flex e-con e-child" data-id="4d6fe4e" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-feb5cbf e-grid overflow-x e-con-full e-con e-child" data-id="feb5cbf" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-92dc16c ekit-equal-height-enable elementor-widget__width-initial risk-faced-operators elementor-widget-tablet__width-initial elementor-widget elementor-widget-elementskit-icon-box" data-id="92dc16c" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fab fa-searchengin"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Discovery &amp; Requirement Mapping                </h3>
+                        		  	<p>We understand your business model and define requirements to shape a custom sportsbook strategy tailored to your goals.
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-92e25ea ekit-equal-height-enable elementor-widget__width-initial risk-faced-operators elementor-widget-tablet__width-initial elementor-widget elementor-widget-elementskit-icon-box" data-id="92e25ea" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon im im-idea"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Platform Architecture &amp; Planning                </h3>
+                        		  	<p>Design a secure, scalable architecture that supports your custom sportsbook features and future growth needs.
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ec30435 ekit-equal-height-enable elementor-widget__width-initial risk-faced-operators elementor-widget-tablet__width-initial elementor-widget elementor-widget-elementskit-icon-box" data-id="ec30435" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fas fa-file-code"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    UI/UX Strategy &amp; Prototyping                </h3>
+                        		  	<p>Craft intuitive interfaces and user flows that enhance engagement within your custom-built sportsbook environment.</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-eee0b92 ekit-equal-height-enable elementor-widget__width-initial risk-faced-operators elementor-widget-tablet__width-initial elementor-widget elementor-widget-elementskit-icon-box" data-id="eee0b92" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fab fa-staylinked"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Core Development &amp; Integrations                </h3>
+                        		  	<p>Develop key functionalities and integrate APIs, odds feeds, and payment systems into your custom sportsbook platform.
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6c4a1fa ekit-equal-height-enable elementor-widget__width-initial risk-faced-operators elementor-widget-tablet__width-initial elementor-widget elementor-widget-elementskit-icon-box" data-id="6c4a1fa" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon jltma-material-icon jltma-material-icon-library_add_check"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Testing, QA &amp; Compliance Checks                </h3>
+                        		  	<p>Ensure your custom sportsbook runs smoothly with rigorous testing, security validation, and compliance readiness.
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ccea6b6 ekit-equal-height-enable elementor-widget__width-initial risk-faced-operators elementor-widget-tablet__width-initial elementor-widget elementor-widget-elementskit-icon-box" data-id="ccea6b6" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon jltma-material-icon jltma-material-icon-launch"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Deployment &amp; Launch                </h3>
+                        		  	<p>Launch your custom sportsbook with optimized performance, stability, and a seamless user experience.
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-00f4b4b ekit-equal-height-enable elementor-widget__width-initial risk-faced-operators elementor-widget-tablet__width-initial elementor-widget elementor-widget-elementskit-icon-box" data-id="00f4b4b" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon im im-support"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Post-Launch Support &amp; Scaling                </h3>
+                        		  	<p>Continuously enhance your custom sportsbook with updates, monitoring, and scalability improvements.
+</p>
+                                </div>
+        
+        
+                </div>
+        </div>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3f09f81 e-con-full e-flex e-con e-child" data-id="3f09f81" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-484e621 e-con-full e-flex e-con e-parent" data-id="484e621" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-280822d elementor-widget elementor-widget-elementskit-heading" data-id="280822d" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper center   ekit_heading_tablet-   ekit_heading_mobile-"><h3 class="ekit-heading--title elementskit-section-title ">Testimonials</h3><div class="ekit_heading_separetor_wraper ekit_heading_elementskit-border-divider ekit-dotted"><div class="elementskit-border-divider ekit-dotted"></div></div></div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0b85f9c testimonial-custom-sec e-flex e-con-boxed e-con e-parent" data-id="0b85f9c" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-0cdf859 testimonial-custom-sec e-con-full e-flex e-con e-child" data-id="0cdf859" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-b456b98 testimonial-sec elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-elementskit-testimonial" data-id="b456b98" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="elementskit-testimonial.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" ><div class="elementskit-testimonial-slider arrow_inside slider-dotted" data-config="{&quot;rtl&quot;:false,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;pauseOnHover&quot;:true,&quot;autoplay&quot;:false,&quot;speed&quot;:1000,&quot;slidesPerGroup&quot;:1,&quot;slidesPerView&quot;:1,&quot;loop&quot;:true,&quot;spaceBetween&quot;:&quot;&quot;,&quot;breakpoints&quot;:{&quot;320&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;768&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;1024&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:15}}}">
+	<div class="ekit-main-swiper swiper">
+		<div class="swiper-wrapper">
+								<div class="swiper-slide">
+						<div class="swiper-slide-inner">
+							<div class="elementskit-testimonial_card" style="background-image: url();" >
+																	<ul class="elementskit-stars">
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																			</ul>
+								
+																	<p class="elementskit-commentor-coment">BSL Gaming delivered a meticulously crafted custom sportsbook platform tailored to our operations. The system runs smoothly during high traffic events and has significantly improved our betting performance.</p>
+								
+								<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Sattam Consulting Limited</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+								<div class="xs-overlay elementor-repeater-item-6d78a37"></div>
+							</div><!-- .testimonial_card END -->
+						</div>
+					</div>
+								<div class="swiper-slide">
+						<div class="swiper-slide-inner">
+							<div class="elementskit-testimonial_card" style="background-image: url();" >
+																	<ul class="elementskit-stars">
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																			</ul>
+								
+																	<p class="elementskit-commentor-coment">BSL Gaming delivered a precision-built sportsbook platform with advanced casino integration and powerful AI-driven insights, creating a seamless and highly efficient betting ecosystem.</p>
+								
+								<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Betworks Consulting</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+								<div class="xs-overlay elementor-repeater-item-8f4d42e"></div>
+							</div><!-- .testimonial_card END -->
+						</div>
+					</div>
+								<div class="swiper-slide">
+						<div class="swiper-slide-inner">
+							<div class="elementskit-testimonial_card" style="background-image: url();" >
+																	<ul class="elementskit-stars">
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																			</ul>
+								
+																	<p class="elementskit-commentor-coment">We were impressed by how BSL Gaming combined AI driven analytics with a custom sportsbook infrastructure. Their solution helped us identify suspicious betting behavior early and maintain a secure and reliable platform.</p>
+								
+								<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Helene T</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+								<div class="xs-overlay elementor-repeater-item-f426222"></div>
+							</div><!-- .testimonial_card END -->
+						</div>
+					</div>
+								<div class="swiper-slide">
+						<div class="swiper-slide-inner">
+							<div class="elementskit-testimonial_card" style="background-image: url();" >
+																	<ul class="elementskit-stars">
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																			</ul>
+								
+																	<p class="elementskit-commentor-coment">The team at BSL Gaming integrated sportsbook and casino gaming into one unified platform with exceptional performance. Their custom development approach ensured the solution matched our operational requirements perfectly.</p>
+								
+								<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">AHETech</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+								<div class="xs-overlay elementor-repeater-item-125dc08"></div>
+							</div><!-- .testimonial_card END -->
+						</div>
+					</div>
+								<div class="swiper-slide">
+						<div class="swiper-slide-inner">
+							<div class="elementskit-testimonial_card" style="background-image: url();" >
+																	<ul class="elementskit-stars">
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																			</ul>
+								
+																	<p class="elementskit-commentor-coment">Highly recommend company for sportsbook solutions! The range of features incorporated within the game was really commendable. Placing bets is straightforward, and customization options made it one of the best choice among the users.</p>
+								
+								<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Katie K</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+								<div class="xs-overlay elementor-repeater-item-5205974"></div>
+							</div><!-- .testimonial_card END -->
+						</div>
+					</div>
+								<div class="swiper-slide">
+						<div class="swiper-slide-inner">
+							<div class="elementskit-testimonial_card" style="background-image: url();" >
+																	<ul class="elementskit-stars">
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																			</ul>
+								
+																	<p class="elementskit-commentor-coment">We needed a reliable partner to build and manage our online casino and sportsbook—and they exceeded every expectation. The platform is smooth, the games are engaging, and the support is always on point.</p>
+								
+								<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Amina Okoye</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+								<div class="xs-overlay elementor-repeater-item-e3d23f3"></div>
+							</div><!-- .testimonial_card END -->
+						</div>
+					</div>
+								<div class="swiper-slide">
+						<div class="swiper-slide-inner">
+							<div class="elementskit-testimonial_card" style="background-image: url();" >
+																	<ul class="elementskit-stars">
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																			</ul>
+								
+																	<p class="elementskit-commentor-coment">Working with this team has been a game-changer for our business. From sportsbook solutions to casino platforms and high-performing slot games, they deliver it all with precision and professionalism.</p>
+								
+								<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Emily Harper</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+								<div class="xs-overlay elementor-repeater-item-789ac5f"></div>
+							</div><!-- .testimonial_card END -->
+						</div>
+					</div>
+								<div class="swiper-slide">
+						<div class="swiper-slide-inner">
+							<div class="elementskit-testimonial_card" style="background-image: url();" >
+																	<ul class="elementskit-stars">
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M287.9 0c9.2 0 17.6 5.2 21.6 13.5l68.6 141.3 153.2 22.6c9 1.3 16.5 7.6 19.3 16.3s.5 18.1-5.9 24.5L433.6 328.4l26.2 155.6c1.5 9-2.2 18.1-9.7 23.5s-17.3 6-25.3 1.7l-137-73.2L151 509.1c-8.1 4.3-17.9 3.7-25.3-1.7s-11.2-14.5-9.7-23.5l26.2-155.6L31.1 218.2c-6.5-6.4-8.7-15.9-5.9-24.5s10.3-14.9 19.3-16.3l153.2-22.6L266.3 13.5C270.4 5.2 278.7 0 287.9 0zm0 79L235.4 187.2c-3.5 7.1-10.2 12.1-18.1 13.3L99 217.9 184.9 303c5.5 5.5 8.1 13.3 6.8 21L171.4 443.7l105.2-56.2c7.1-3.8 15.6-3.8 22.6 0l105.2 56.2L384.2 324.1c-1.3-7.7 1.2-15.5 6.8-21l85.9-85.1L358.6 200.5c-7.8-1.2-14.6-6.1-18.1-13.3L287.9 79z" /></svg></a></li>
+																			</ul>
+								
+																	<p class="elementskit-commentor-coment">Instant Assist has completely transformed how we engage our users. The real-time, AI-powered commentary keeps players glued to every moment with live match updates &amp; smart player insights.</p>
+								
+								<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Logan Brooks</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+								<div class="xs-overlay elementor-repeater-item-8d0f69f"></div>
+							</div><!-- .testimonial_card END -->
+						</div>
+					</div>
+								<div class="swiper-slide">
+						<div class="swiper-slide-inner">
+							<div class="elementskit-testimonial_card" style="background-image: url();" >
+																	<ul class="elementskit-stars">
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																			</ul>
+								
+																	<p class="elementskit-commentor-coment">BSL Gaming built a powerful sweepstakes casino platform for us with a dual currency system and engaging gameplay features. It helped us attract a large player base quickly while maintaining a seamless user experience.</p>
+								
+								<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Thabo Mbeki</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+								<div class="xs-overlay elementor-repeater-item-3383537"></div>
+							</div><!-- .testimonial_card END -->
+						</div>
+					</div>
+								<div class="swiper-slide">
+						<div class="swiper-slide-inner">
+							<div class="elementskit-testimonial_card" style="background-image: url();" >
+																	<ul class="elementskit-stars">
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																					<li><a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z" /></svg></a></li>
+																			</ul>
+								
+																	<p class="elementskit-commentor-coment">BSL Gaming delivered a highly engaging slot game portfolio for our platform with smooth gameplay, and optimized performance. Their development team clearly understands what keeps players engaged and returning.</p>
+								
+								<span class="elementskit-profile-info">
+									<strong class="elementskit-author-name">Kwame Ndlovu</strong>
+									<span class="elementskit-author-des"></span>
+								</span>
+								<div class="xs-overlay elementor-repeater-item-2294ad3"></div>
+							</div><!-- .testimonial_card END -->
+						</div>
+					</div>
+					</div>
+
+					<div class="swiper-pagination"></div>
+		
+					<div class="swiper-navigation-button swiper-button-prev">
+				<i aria-hidden="true" class="icon icon-left-arrows"></i>			</div>
+			<div class="swiper-navigation-button swiper-button-next">
+				<i aria-hidden="true" class="icon icon-right-arrow1"></i>			</div>
+			</div>
+</div>
+</div>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-cacc634 e-flex e-con-boxed e-con e-parent" data-id="cacc634" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-a1bfa39 textoDegradado elementor-widget elementor-widget-heading" data-id="a1bfa39" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Read our <span>blogs</span></h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1509087 elementor-widget__width-initial our-blog-read elementor-widget-tablet__width-initial elementor-widget elementor-widget-elementskit-blog-posts" data-id="1509087" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-blog-posts.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >        <div id="post-items--1509087" class="row post-items">
+                    <div class="col-lg-4 col-md-6">
+
+                                    <div class="elementskit-post-image-card">
+                        <div class="elementskit-entry-header">
+                                                            <a href="/blog/casino-game-development-companies-in-uganda" class="elementskit-entry-thumb">
+                                    <img post-id="23104" fifu-featured="1" decoding="async" src="/img/aws-images/WG-Blogs-1.png" alt="Top 7 Casino Game Development Companies in Uganda" title="Top 7 Casino Game Development Companies in Uganda">
+                                </a><!-- .elementskit-entry-thumb END -->
+                                                            
+                            
+													</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																				<h2 class="entry-title">
+					<a href="/blog/casino-game-development-companies-in-uganda">
+						Top 7 Casino Game Development Companies in Uganda					</a>
+				</h2>
+											
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+										<i aria-hidden="true" class="far fa-calendar-alt"></i>										<span class="meta-date-text">
+											September 8, 2025										</span>
+									</span>
+																																					</div>
+													
+								
+																																							<p>Risk of Uganda’s Casino Market (Compliance &amp; Fraud Pressures) The&hellip;</p>
+																						                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                    <div class="col-lg-4 col-md-6">
+
+                                    <div class="elementskit-post-image-card">
+                        <div class="elementskit-entry-header">
+                                                            <a href="/blog/custom-casino-game-development" class="elementskit-entry-thumb">
+                                    <img post-id="20045" fifu-featured="1" decoding="async" src="/img/aws-images/Why-Custom-Casino-Game-Development-Is-the-Future-of-Online-Gambling.png" alt="Why Custom Casino Game Development Is the Future of Online Gambling" title="Why Custom Casino Game Development Is the Future of Online Gambling">
+                                </a><!-- .elementskit-entry-thumb END -->
+                                                            
+                            
+													</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																				<h2 class="entry-title">
+					<a href="/blog/custom-casino-game-development">
+						Why Custom Casino Game Development Is the Future of Online Gambling					</a>
+				</h2>
+											
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+										<i aria-hidden="true" class="far fa-calendar-alt"></i>										<span class="meta-date-text">
+											June 26, 2025										</span>
+									</span>
+																																					</div>
+													
+								
+																																							<p>The online gambling industry has moved beyond conventional slots and&hellip;</p>
+																						                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                    <div class="col-lg-4 col-md-6">
+
+                                    <div class="elementskit-post-image-card">
+                        <div class="elementskit-entry-header">
+                                                            <a href="/blog/online-casino-app-development" class="elementskit-entry-thumb">
+                                    <img post-id="18879" fifu-featured="1" decoding="async" src="/img/aws-images/How-Online-Casino-App-Development-Is-Reshaping-the-iGaming-Industry-2.png" alt="How Online Casino App Development Is Reshaping the iGaming Industry" title="How Online Casino App Development Is Reshaping the iGaming Industry">
+                                </a><!-- .elementskit-entry-thumb END -->
+                                                            
+                            
+													</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																				<h2 class="entry-title">
+					<a href="/blog/online-casino-app-development">
+						How Online Casino App Development Is Reshaping the iGaming Industry					</a>
+				</h2>
+											
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+										<i aria-hidden="true" class="far fa-calendar-alt"></i>										<span class="meta-date-text">
+											May 30, 2025										</span>
+									</span>
+																																					</div>
+													
+								
+																																							<p>How Online Casino App Development Is Transforming the iGaming Sector&hellip;</p>
+																						                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                    <div class="col-lg-4 col-md-6">
+
+                                    <div class="elementskit-post-image-card">
+                        <div class="elementskit-entry-header">
+                                                            <a href="/blog/white-label-online-casino-solution-benefit" class="elementskit-entry-thumb">
+                                    <img post-id="10096" fifu-featured="1" decoding="async" src="/img/aws-images/white-label-casino-solutions-scaled.jpg" alt="What is a White Label Online Casino Solution? Top 10 Benefits For Operators &#038; Feat" title="What is a White Label Online Casino Solution? Top 10 Benefits For Operators &#038; Feat">
+                                </a><!-- .elementskit-entry-thumb END -->
+                                                            
+                            
+													</div><!-- .elementskit-entry-header END -->
+
+						<div class="elementskit-post-body ">
+																				<h2 class="entry-title">
+					<a href="/blog/white-label-online-casino-solution-benefit">
+						What is a White Label Online Casino Solution? Top 10 Benefits For Operators &#038; Feat					</a>
+				</h2>
+											
+																												<div class="post-meta-list">
+																																<span class="meta-date">
+										<i aria-hidden="true" class="far fa-calendar-alt"></i>										<span class="meta-date-text">
+											November 6, 2024										</span>
+									</span>
+																																					</div>
+													
+								
+																																							<p>What is a White Label Online Casino Solution? A white&hellip;</p>
+																						                                                    </div><!-- .elementskit-post-body END -->
+                    </div>
+                
+            </div>
+                </div>
+       </div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-148bf14 elementor-align-center blog-button elementor-widget elementor-widget-button" data-id="148bf14" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/blogs" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Read Articles</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6bb1f97 faqs-section elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6bb1f97" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c007c13" data-id="c007c13" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9b59367 elementor-widget elementor-widget-elementskit-heading" data-id="9b59367" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper center   ekit_heading_tablet-   ekit_heading_mobile-"><h3 class="ekit-heading--title elementskit-section-title ">FAQS</h3><div class="ekit_heading_separetor_wraper ekit_heading_elementskit-border-divider ekit-dotted"><div class="elementskit-border-divider ekit-dotted"></div></div><h3 class="ekit-heading--subtitle elementskit-section-subtitle  ">
+						Everything You Need to Know About Bespoke Sportsbook Development
+					</h3></div></div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-854ef6a" data-id="854ef6a" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-223d2a7 elementor-widget__width-initial wagergeeks-faq-section elementor-widget elementor-widget-ma-advanced-accordion" data-id="223d2a7" data-element_type="widget" data-e-type="widget" data-settings="{&quot;accordion_type&quot;:&quot;accordion&quot;,&quot;toggle_speed&quot;:300}" data-widget_type="ma-advanced-accordion.default">
+				<div class="elementor-widget-container">
+					
+		<div class="jltma-advanced-accordion" id="jltma-advanced-accordion-223d2a7" data-accordion-id="223d2a7" 		data-accordion-id="223d2a7">
+			<div class="ma-accordion-wrap ma-accordion-icon-align-right ma-accordion-223d2a7"">
+
+				
+					<div
+						class="jltma-accordion-item elementor-repeater-item-ee02f0d ">
+						<div id="jltma-accordion-tab-title-3591" class="jltma-accordion-tab-title jltma-accordion-header" tabindex="3591" data-tab="1" role="tab" aria-controls="jltma-accordion-tab-content-3591">
+							<div class="jltma-accordion-title-icon">
+
+								
+								<div class="jltma-accordion-title-text">
+									What is bespoke sportsbook software development?								</div>
+							</div>
+
+																<span class="jltma-accordion-toggle-icon">
+										<i aria-hidden="true" class="jltma-el-accordion-icon-closed fas fa-minus"></i><i aria-hidden="true" class="jltma-el-accordion-icon-opened fas fa-bullseye"></i>									</span>
+								
+						</div>
+
+						<div id="jltma-accordion-tab-content-3591" class="jltma-accordion-tab-content" data-tab="1" role="tabpanel" aria-labelledby="jltma-accordion-tab-title-3591">
+							<p>Bespoke sportsbook software development refers to building a fully customized betting platform tailored to your specific business model, features, and user experience. Unlike ready-made solutions, it gives you complete control over functionality, scalability, and branding.</p>						</div>
+
+					</div>
+				
+					<div
+						class="jltma-accordion-item elementor-repeater-item-9374918 ">
+						<div id="jltma-accordion-tab-title-3592" class="jltma-accordion-tab-title jltma-accordion-header" tabindex="3592" data-tab="2" role="tab" aria-controls="jltma-accordion-tab-content-3592">
+							<div class="jltma-accordion-title-icon">
+
+								
+								<div class="jltma-accordion-title-text">
+									Why should operators choose a custom sportsbook over a white-label solution?								</div>
+							</div>
+
+																<span class="jltma-accordion-toggle-icon">
+										<i aria-hidden="true" class="jltma-el-accordion-icon-closed fas fa-minus"></i><i aria-hidden="true" class="jltma-el-accordion-icon-opened fas fa-bullseye"></i>									</span>
+								
+						</div>
+
+						<div id="jltma-accordion-tab-content-3592" class="jltma-accordion-tab-content" data-tab="2" role="tabpanel" aria-labelledby="jltma-accordion-tab-title-3592">
+							<p>A custom sportsbook offers greater flexibility, unique feature development, and full ownership of the platform. It allows operators to differentiate their brand, integrate advanced tools, and scale without the limitations of pre-built systems.</p>						</div>
+
+					</div>
+				
+					<div
+						class="jltma-accordion-item elementor-repeater-item-89f8c45 ">
+						<div id="jltma-accordion-tab-title-3593" class="jltma-accordion-tab-title jltma-accordion-header" tabindex="3593" data-tab="3" role="tab" aria-controls="jltma-accordion-tab-content-3593">
+							<div class="jltma-accordion-title-icon">
+
+								
+								<div class="jltma-accordion-title-text">
+									How long does it take to develop a bespoke sportsbook platform?								</div>
+							</div>
+
+																<span class="jltma-accordion-toggle-icon">
+										<i aria-hidden="true" class="jltma-el-accordion-icon-closed fas fa-minus"></i><i aria-hidden="true" class="jltma-el-accordion-icon-opened fas fa-bullseye"></i>									</span>
+								
+						</div>
+
+						<div id="jltma-accordion-tab-content-3593" class="jltma-accordion-tab-content" data-tab="3" role="tabpanel" aria-labelledby="jltma-accordion-tab-title-3593">
+							<p>The development timeline depends on the complexity and features required. On average, a custom sportsbook platform can take a few weeks to a few months, depending on integrations, design, and scalability requirements.</p>						</div>
+
+					</div>
+				
+					<div
+						class="jltma-accordion-item elementor-repeater-item-0785700 ">
+						<div id="jltma-accordion-tab-title-3594" class="jltma-accordion-tab-title jltma-accordion-header" tabindex="3594" data-tab="4" role="tab" aria-controls="jltma-accordion-tab-content-3594">
+							<div class="jltma-accordion-title-icon">
+
+								
+								<div class="jltma-accordion-title-text">
+									What features are included in bespoke sportsbook software development?								</div>
+							</div>
+
+																<span class="jltma-accordion-toggle-icon">
+										<i aria-hidden="true" class="jltma-el-accordion-icon-closed fas fa-minus"></i><i aria-hidden="true" class="jltma-el-accordion-icon-opened fas fa-bullseye"></i>									</span>
+								
+						</div>
+
+						<div id="jltma-accordion-tab-content-3594" class="jltma-accordion-tab-content" data-tab="4" role="tabpanel" aria-labelledby="jltma-accordion-tab-title-3594">
+							<p>Key features include real-time odds integration, live betting, AI-based risk management, secure payment systems, multi-currency support, API integrations, and advanced analytics to optimize performance and user engagement.</p>						</div>
+
+					</div>
+				
+					<div
+						class="jltma-accordion-item elementor-repeater-item-f3c8fef ">
+						<div id="jltma-accordion-tab-title-3595" class="jltma-accordion-tab-title jltma-accordion-header" tabindex="3595" data-tab="5" role="tab" aria-controls="jltma-accordion-tab-content-3595">
+							<div class="jltma-accordion-title-icon">
+
+								
+								<div class="jltma-accordion-title-text">
+									How do I choose the right sportsbook software development provider?								</div>
+							</div>
+
+																<span class="jltma-accordion-toggle-icon">
+										<i aria-hidden="true" class="jltma-el-accordion-icon-closed fas fa-minus"></i><i aria-hidden="true" class="jltma-el-accordion-icon-opened fas fa-bullseye"></i>									</span>
+								
+						</div>
+
+						<div id="jltma-accordion-tab-content-3595" class="jltma-accordion-tab-content" data-tab="5" role="tabpanel" aria-labelledby="jltma-accordion-tab-title-3595">
+							<p>Look for a provider with proven industry experience, scalable solutions, strong security standards, and the ability to deliver fully customized platforms. A reliable partner should also offer post-launch support and advanced integrations.</p>						</div>
+
+					</div>
+				
+					<div
+						class="jltma-accordion-item elementor-repeater-item-c169d55 ">
+						<div id="jltma-accordion-tab-title-3596" class="jltma-accordion-tab-title jltma-accordion-header" tabindex="3596" data-tab="6" role="tab" aria-controls="jltma-accordion-tab-content-3596">
+							<div class="jltma-accordion-title-icon">
+
+								
+								<div class="jltma-accordion-title-text">
+									Why choose BSL Gaming as your sportsbook software development provider?								</div>
+							</div>
+
+																<span class="jltma-accordion-toggle-icon">
+										<i aria-hidden="true" class="jltma-el-accordion-icon-closed fas fa-minus"></i><i aria-hidden="true" class="jltma-el-accordion-icon-opened fas fa-bullseye"></i>									</span>
+								
+						</div>
+
+						<div id="jltma-accordion-tab-content-3596" class="jltma-accordion-tab-content" data-tab="6" role="tabpanel" aria-labelledby="jltma-accordion-tab-title-3596">
+							<p>BSL Gaming offers tailored sportsbook solutions backed by industry expertise, advanced technology, and a focus on performance and scalability. Their custom approach ensures your platform is built to meet your exact business needs while supporting long-term growth.</p>						</div>
+
+					</div>
+				
+					<div
+						class="jltma-accordion-item elementor-repeater-item-16e4022 ">
+						<div id="jltma-accordion-tab-title-3597" class="jltma-accordion-tab-title jltma-accordion-header" tabindex="3597" data-tab="7" role="tab" aria-controls="jltma-accordion-tab-content-3597">
+							<div class="jltma-accordion-title-icon">
+
+								
+								<div class="jltma-accordion-title-text">
+									Does BSL Gaming provide post-launch support for sportsbook platforms?								</div>
+							</div>
+
+																<span class="jltma-accordion-toggle-icon">
+										<i aria-hidden="true" class="jltma-el-accordion-icon-closed fas fa-minus"></i><i aria-hidden="true" class="jltma-el-accordion-icon-opened fas fa-bullseye"></i>									</span>
+								
+						</div>
+
+						<div id="jltma-accordion-tab-content-3597" class="jltma-accordion-tab-content" data-tab="7" role="tabpanel" aria-labelledby="jltma-accordion-tab-title-3597">
+							<p>Yes, BSL Gaming provides ongoing support, including maintenance, performance optimization, feature upgrades, and technical assistance to ensure your sportsbook platform runs smoothly and stays competitive.</p>						</div>
+
+					</div>
+							</div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+		
+			</div>
+
+	
+</main>
+
+		
+@endsection
